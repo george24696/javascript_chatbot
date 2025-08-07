@@ -2,7 +2,7 @@
 
 A simple chatbot interface powered by Google's Gemma-3-12B-IT model by the Stellenbosch University AI Society.
 
-![image](https://github.com/user-attachments/assets/1a4cfe0e-4001-42d5-9139-f532cd6d70b0)
+<img width="1034" height="936" alt="image" src="https://github.com/user-attachments/assets/e23a9f64-fcd3-48a8-8373-7bde54a2e160" />
 
 ## 🚀 Features
 
@@ -39,3 +39,4 @@ MIT License
 ---
 
 **Built by the Stellenbosch University AI Society**
+
